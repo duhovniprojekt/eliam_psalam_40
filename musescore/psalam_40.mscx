@@ -1264,6 +1264,7 @@
         <voice>
           <Harmony>
             <root>10</root>
+            <name>6</name>
             </Harmony>
           <RehearsalMark>
             <offset x="-2.48357" y="-3.20696"/>
@@ -1449,7 +1450,7 @@
               <text>vo</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
+              <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
@@ -1467,7 +1468,7 @@
               <text>lju</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
+              <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
@@ -1481,7 +1482,7 @@
               <text>i</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
+              <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
@@ -1506,7 +1507,7 @@
               <text>riječ</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
+              <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
@@ -1523,7 +1524,7 @@
               <text>tvo</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
+              <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
@@ -1539,7 +1540,7 @@
               <text>ju</text>
               </Lyrics>
             <Note>
-              <pitch>56</pitch>
+              <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
             </Chord>
@@ -1556,7 +1557,7 @@
               <text>vr</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
+              <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
@@ -1572,7 +1573,7 @@
               <text>ši</text>
               </Lyrics>
             <Note>
-              <pitch>60</pitch>
+              <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
@@ -1588,7 +1589,7 @@
               <text>ti</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
+              <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
@@ -1602,7 +1603,7 @@
               <text>O</text>
               </Lyrics>
             <Note>
-              <pitch>56</pitch>
+              <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
             </Chord>
@@ -3003,8 +3004,8 @@
               <text>Mi</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3020,8 +3021,8 @@
               <text>li</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3036,8 +3037,8 @@
               <text>je</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -3062,8 +3063,8 @@
               <text>Bo</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3080,8 +3081,8 @@
               <text>že</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3094,8 +3095,8 @@
               <text>je</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -3111,8 +3112,8 @@
               <text>me</text>
               </Lyrics>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3127,8 +3128,8 @@
               <text>ni</text>
               </Lyrics>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -3159,8 +3160,8 @@
               <text>vo</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3177,8 +3178,8 @@
               <text>lju</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3191,8 +3192,8 @@
               <text>i</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -3216,8 +3217,8 @@
               <text>riječ</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3233,8 +3234,8 @@
               <text>tvo</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3249,8 +3250,8 @@
               <text>ju</text>
               </Lyrics>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -3266,8 +3267,8 @@
               <text>vr</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3282,8 +3283,8 @@
               <text>ši</text>
               </Lyrics>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3298,8 +3299,8 @@
               <text>ti</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -3332,8 +3333,8 @@
               <text>Svje</text>
               </Lyrics>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3348,8 +3349,8 @@
               <text>do</text>
               </Lyrics>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3373,8 +3374,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3387,8 +3388,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3401,8 +3402,8 @@
               <text>za</text>
               </Lyrics>
             <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3426,8 +3427,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3440,8 +3441,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3458,8 +3459,8 @@
               <text>du</text>
               </Lyrics>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3483,8 +3484,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3497,8 +3498,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3516,8 +3517,8 @@
               <text>ju,</text>
               </Lyrics>
             <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3536,8 +3537,8 @@
               <text>za</text>
               </Lyrics>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3553,11 +3554,8 @@
               <text>kon</text>
               </Lyrics>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
-              <pitch>64</pitch>
-              <tpc>6</tpc>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3573,6 +3571,9 @@
               <text>tvoj</text>
               </Lyrics>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <Spanner type="Tie">
                 <Tie>
                   </Tie>
@@ -3582,8 +3583,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>64</pitch>
+              <tpc>6</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3596,8 +3597,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>64</pitch>
+              <tpc>6</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3612,8 +3613,8 @@
               <text>u</text>
               </Lyrics>
             <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>64</pitch>
+              <tpc>6</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3636,8 +3637,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3650,8 +3651,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3666,9 +3667,8 @@
               <text>cu</text>
               </Lyrics>
             <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <tpc2>6</tpc2>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3692,8 +3692,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>64</pitch>
+              <tpc>6</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3706,8 +3706,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>64</pitch>
+              <tpc>6</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3723,8 +3723,8 @@
               <text>sim.</text>
               </Lyrics>
             <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>64</pitch>
+              <tpc>6</tpc>
               </Note>
             </Chord>
           </voice>
@@ -4714,8 +4714,8 @@
               <text>Mi</text>
               </Lyrics>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4731,8 +4731,8 @@
               <text>li</text>
               </Lyrics>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4747,8 +4747,8 @@
               <text>je</text>
               </Lyrics>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -4773,8 +4773,8 @@
               <text>Bo</text>
               </Lyrics>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4791,8 +4791,8 @@
               <text>že</text>
               </Lyrics>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4805,8 +4805,8 @@
               <text>je</text>
               </Lyrics>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -4822,8 +4822,8 @@
               <text>me</text>
               </Lyrics>
             <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4838,8 +4838,8 @@
               <text>ni</text>
               </Lyrics>
             <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -4870,8 +4870,8 @@
               <text>vo</text>
               </Lyrics>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4888,8 +4888,8 @@
               <text>lju</text>
               </Lyrics>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4902,8 +4902,8 @@
               <text>i</text>
               </Lyrics>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -4927,8 +4927,8 @@
               <text>riječ</text>
               </Lyrics>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4944,8 +4944,8 @@
               <text>tvo</text>
               </Lyrics>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4960,8 +4960,8 @@
               <text>ju</text>
               </Lyrics>
             <Note>
-              <pitch>44</pitch>
-              <tpc>10</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -4977,8 +4977,8 @@
               <text>vr</text>
               </Lyrics>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4993,8 +4993,8 @@
               <text>ši</text>
               </Lyrics>
             <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5009,8 +5009,8 @@
               <text>ti</text>
               </Lyrics>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -5023,7 +5023,7 @@
               <text>O</text>
               </Lyrics>
             <Note>
-              <pitch>44</pitch>
+              <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
             </Chord>
@@ -5043,8 +5043,8 @@
               <text>Svje</text>
               </Lyrics>
             <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5059,8 +5059,8 @@
               <text>do</text>
               </Lyrics>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5084,8 +5084,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5098,8 +5098,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5112,8 +5112,8 @@
               <text>za</text>
               </Lyrics>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5137,8 +5137,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5151,8 +5151,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5169,8 +5169,8 @@
               <text>du</text>
               </Lyrics>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5194,8 +5194,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5208,8 +5208,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5227,8 +5227,8 @@
               <text>ju,</text>
               </Lyrics>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           </voice>
@@ -5247,8 +5247,11 @@
               <text>za</text>
               </Lyrics>
             <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>64</pitch>
+              <tpc>6</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5264,8 +5267,8 @@
               <text>kon</text>
               </Lyrics>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5290,8 +5293,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5304,8 +5307,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5320,8 +5323,8 @@
               <text>u</text>
               </Lyrics>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5344,8 +5347,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>64</pitch>
+              <tpc>6</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5358,8 +5361,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>64</pitch>
+              <tpc>6</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5374,8 +5377,8 @@
               <text>cu</text>
               </Lyrics>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5399,8 +5402,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5413,8 +5416,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5430,8 +5433,8 @@
               <text>sim.</text>
               </Lyrics>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -6417,8 +6420,8 @@
               <text>Mi</text>
               </Lyrics>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6434,8 +6437,8 @@
               <text>li</text>
               </Lyrics>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6450,8 +6453,8 @@
               <text>je</text>
               </Lyrics>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -6476,8 +6479,8 @@
               <text>Bo</text>
               </Lyrics>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6494,8 +6497,8 @@
               <text>že</text>
               </Lyrics>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6508,8 +6511,8 @@
               <text>je</text>
               </Lyrics>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -6525,8 +6528,8 @@
               <text>me</text>
               </Lyrics>
             <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6541,8 +6544,8 @@
               <text>ni</text>
               </Lyrics>
             <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -6573,8 +6576,8 @@
               <text>vo</text>
               </Lyrics>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6591,8 +6594,8 @@
               <text>lju</text>
               </Lyrics>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6605,8 +6608,8 @@
               <text>i</text>
               </Lyrics>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -6630,8 +6633,8 @@
               <text>riječ</text>
               </Lyrics>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6647,8 +6650,8 @@
               <text>tvo</text>
               </Lyrics>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6663,8 +6666,8 @@
               <text>ju</text>
               </Lyrics>
             <Note>
-              <pitch>44</pitch>
-              <tpc>10</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -6680,7 +6683,7 @@
               <text>vr</text>
               </Lyrics>
             <Note>
-              <pitch>46</pitch>
+              <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
@@ -6696,8 +6699,8 @@
               <text>ši</text>
               </Lyrics>
             <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6712,7 +6715,7 @@
               <text>ti</text>
               </Lyrics>
             <Note>
-              <pitch>46</pitch>
+              <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
@@ -6787,8 +6790,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6801,8 +6804,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6815,8 +6818,8 @@
               <text>za</text>
               </Lyrics>
             <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6897,8 +6900,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6911,8 +6914,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6930,8 +6933,8 @@
               <text>ju,</text>
               </Lyrics>
             <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -6967,11 +6970,8 @@
               <text>kon</text>
               </Lyrics>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
-              <pitch>52</pitch>
-              <tpc>6</tpc>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -6996,8 +6996,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -7010,8 +7010,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -7026,8 +7026,8 @@
               <text>u</text>
               </Lyrics>
             <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -7080,9 +7080,11 @@
               <text>cu</text>
               </Lyrics>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>52</pitch>
-              <tpc>18</tpc>
-              <tpc2>6</tpc2>
+              <tpc>6</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -7106,8 +7108,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -7120,8 +7122,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -7137,8 +7139,8 @@
               <text>sim.</text>
               </Lyrics>
             <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
