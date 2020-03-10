@@ -6599,8 +6599,8 @@
               <text>O</text>
               </Lyrics>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -9201,8 +9201,8 @@
               <text>O</text>
               </Lyrics>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
